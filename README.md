@@ -35,11 +35,11 @@ public static void main(String[] args) {
 <div align="center" style="text-align:center">
     <a href="mailto:sekito.lv@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="bluetata's Gmail">
+            alt="2658273740@qq.com">
     </a>
     <a href="https://bluetata.blog.csdn.net/">
        <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"-->
         <img src="https://img.shields.io/badge/-blog-0A66C2?style=for-the-badge&logo=C&logoColor=white"
-            alt="bluetata's Blog">
+            alt="https://blog.csdn.net/m0_67906358?spm=1000.2115.3001.5343">
     </a>
 </div>
