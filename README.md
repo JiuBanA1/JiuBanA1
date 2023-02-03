@@ -1,4 +1,4 @@
-### 📜学如逆水行舟，不进则退!
+### 📜learning is like sailing against the tide, and if you do not advance, you will retreat
 
 ---
 
