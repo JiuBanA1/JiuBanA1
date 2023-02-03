@@ -2,7 +2,6 @@
 
 ---
 
-
 ```Java
 public static void main(String[] args) {
     // \u000d System.out.print(unescape("%u6211%u4EEC%u4E00%u8DEF%u594B%u6218"));
@@ -20,26 +19,6 @@ public static void main(String[] args) {
     </a>
     <a href="#">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bluetata&theme=flag-india&background=0000&hide_border=true"
-            alt="bluetata's Github commit streak">
-    </a>
-<!--
-        <img width="40%" src="https://wakatime.com/share/@d02b98bb-107e-4342-a6ae-9730341305b7/a14535da-67f8-49b0-a5ec-c4b08b8e9438.svg"
-            alt="bluetata's wakatime last year stats">
--->
-</div>
-
----
-
-## 🙇‍♀️ How to reach me
-
-<div align="center" style="text-align:center">
-    <a href="https://blog.csdn.net/m0_67906358?spm=1000.2115.3001.5343 ">
-        <img src="https://img.shields.io/badge/-csdn-EA4335?style=for-the-badge&logo=logoColor=white"
-            alt="bluetata's csdn">
-    </a>
-    <a href="https://juejin.cn/user/84029998111790">
-       <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"-->
-        <img src="https://img.shields.io/badge/-juejin-0A66C2?style=for-the-badge&logo=logoColor=white"
-            alt="bluetata's juejin ">
+            alt="bluetata's Github commit JiubanA1">
     </a>
 </div>
