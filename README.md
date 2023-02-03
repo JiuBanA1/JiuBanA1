@@ -34,12 +34,12 @@ public static void main(String[] args) {
 
 <div align="center" style="text-align:center">
     <a href="https://blog.csdn.net/m0_67906358?spm=1000.2115.3001.5343 ">
-        <img src="https://img.shields.io/badge/-blog-EA4335?style=for-the-badge&logo=logoColor=white"
+        <img src="https://img.shields.io/badge/-csdn-EA4335?style=for-the-badge&logo=logoColor=white"
             alt="bluetata's csdn">
     </a>
     <a href="https://juejin.cn/user/84029998111790">
        <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"-->
-        <img src="https://img.shields.io/badge/-blog-0A66C2?style=for-the-badge&logo=logoColor=white"
+        <img src="https://img.shields.io/badge/-juejin-0A66C2?style=for-the-badge&logo=logoColor=white"
             alt="bluetata's juejin ">
     </a>
 </div>
