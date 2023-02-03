@@ -30,14 +30,14 @@ public static void main(String[] args) {
 
 ---
 
-## 🙇‍♀️ How to reach me**
+## 🙇‍♀️ How to reach me
 
 <div align="center" style="text-align:center">
-    <a href="https://juejin.cn/user/84029998111790">
-        <img src="https://img.shields.io/badge/-blog-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+    <a href="https://blog.csdn.net/m0_67906358?spm=1000.2115.3001.5343 ">
+        <img src="https://img.shields.io/badge/-blog-0A66C2?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="bluetata's Blog">
     </a>
-    <a href="https://blog.csdn.net/m0_67906358?spm=1000.2115.3001.5343">
+    <a href="https://juejin.cn/user/84029998111790">
        <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"-->
         <img src="https://img.shields.io/badge/-blog-0A66C2?style=for-the-badge&logo=C&logoColor=white"
             alt="bluetata's Blog">
