@@ -19,6 +19,6 @@ public static void main(String[] args) {
     </a>
     <a href="#">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bluetata&theme=flag-india&background=0000&hide_border=true"
-            alt="bluetata's Github commit JiubanA1">
+            alt="Github commit JiubanA1">
     </a>
 </div>
