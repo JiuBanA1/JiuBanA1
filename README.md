@@ -1,4 +1,4 @@
-### 📜learning is like sailing against the tide, and if you do not advance, you will retreat!
+### 📜 learning is like sailing against the tide, and if you do not advance, you will retreat!
 
 ---
 
