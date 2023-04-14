@@ -1,8 +1,6 @@
 
 
 
-[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/assets/github-contribution-grid-snake.svg)
-
 
 <img alt="Coding gif" src="./assets/Developer.gif" width="45" /> learning is like sailing against the tide, and if you do not advance, you will retreat!
 
