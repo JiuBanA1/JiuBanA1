@@ -1,8 +1,4 @@
-
-
-
-
-<img alt="Coding gif" src="./assets/Developer.gif" width="40" />  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=60&size=16&duration=9999&pause=0&color=010405&center=&vCenter=&repeat=&width=435&height=30&lines=learning+is+like+sailing+against+the+tide!" alt="Typing SVG" /></a>
+<img alt="Coding gif" src="./assets/Developer.gif" width="40" />![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&+Code&weight=60&size=15&pause=1000&color=010405&vCenter=true&width=500&height=22&lines=learning+is+like+sailing+against+the+tide!)
 
 
 <div align="center" style="text-align:center">
@@ -19,5 +15,6 @@
 You are the ![Visitor Count](https://profile-counter.glitch.me/jiubana1/count.svg)visitor!
 
 [![profile](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)
+
 
 
