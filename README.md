@@ -16,5 +16,4 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/jiubana1/count.sv
 
 [![profile](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiubanA1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
