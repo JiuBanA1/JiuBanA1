@@ -1,3 +1,6 @@
+
+
+
 [![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/assets/github-contribution-grid-snake.svg)
 
 
@@ -19,3 +22,6 @@
 
 
 [![profile](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)
+
+## Visiters
+### You are the ![Visitor Count](https://profile-counter.glitch.me/jiubana1/count.svg)visitor!
