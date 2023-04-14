@@ -11,4 +11,6 @@
     </a>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JiuBanA1&theme=dracula)](https://github.com/ashutosh00710/GitHub-compact)
+
 [![profile](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)
