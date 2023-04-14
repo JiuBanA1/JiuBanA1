@@ -2,7 +2,7 @@
 
 
 
-<img alt="Coding gif" src="./assets/Developer.gif" width="45" /> learning is like sailing against the tide, and if you do not advance, you will retreat!
+<img alt="Coding gif" src="./assets/Developer.gif" width="40" />  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=60&size=10&duration=9999&pause=10&color=010405&center=&vCenter=&repeat=&width=435&height=30&lines=learning+is+like+sailing+against+the+tide%2C+and+if+you+do+not+advance%2C+you+will+retreat!" alt="Typing SVG" /></a>
 
 
 <div align="center" style="text-align:center">
