@@ -11,6 +11,5 @@
 
 [![profile](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=JiubanA1&theme=algolia&column=8)
 
-<img align='Middle' src="https://metrics.lecoq.io/jiubana1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" width="500">
 
 
